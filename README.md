@@ -31,8 +31,8 @@ Here are some of the tools and technologies I work with:
 
 ## 🔗 Let's Connect!
 
-- 🌐 **Website/Portfolio**: [Add your website link here]
-- 💬 **Contact**: [Add your contact info here]
+- 🌐 **Email**: mrbotofficiall@gmail.com
+- 💬 **Contact (Telegram)**: https://t.me/mrbot_official 
 
 ---
 
