@@ -7,7 +7,7 @@ Let me introduce myself and showcase what I'm all about. 🌟
 
 ## 🌟 About Me
 
-- 🤖 **Who I AM?**: A passionate tech enthusiast and developer who loves crafting innovative solutions.  
+- 🤖 **Who I AM?**: A passionate tech enthusiast and developer who loves crafting innovative solutions but also a Rapper/Singer  
 - 💡 **What I Do?**: I specialize in creating impactful projects and sharing my knowledge with the developer community.  
 - 🌍 **Where to Find Me?**: Right here on GitHub, building and growing every day!
 
