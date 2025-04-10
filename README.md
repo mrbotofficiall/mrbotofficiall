@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-Hi there! I'm **MrBotOfficial**, and this is my GitHub profile repository. 🚀  
+Hi there! I'm **MrBot**, and this is my GitHub profile repository. 🚀  
 Let me introduce myself and showcase what I'm all about. 🌟
 
 ---
@@ -17,9 +17,9 @@ Let me introduce myself and showcase what I'm all about. 🌟
 
 Here are some of the tools and technologies I work with:
 
-- **Programming Languages**: [Add your languages here]
-- **Frameworks & Libraries**: [Add your frameworks here]
-- **Tools & Platforms**: [Add your tools here]
+- **Programming Languages**: [C++ & Python]
+- **Frameworks & Libraries**: [Keras]
+- **Tools & Platforms**: [None for now]
 
 ---
 
